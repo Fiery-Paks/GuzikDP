@@ -18,7 +18,7 @@ namespace TravelAgencyGuzik.UserControls
         {
             InitializeComponent();
         }
-
+        private Model1 model1 = new Model1();
         private void buttonBack_Click(object sender, EventArgs e)
         {
             var parentForm = this.FindForm() as FormMenu; // Получаем родительскую форму
@@ -35,11 +35,12 @@ namespace TravelAgencyGuzik.UserControls
             {
                 parentForm.LoadUserControl(new UserControlHotelsAdd()); // Загружаем новый UserControl
             }
+            hotelsBindingSource.DataSource = model1.Hotels.ToList();
         }
 
         private void UserControlHotels_Load(object sender, EventArgs e)
         {
-            Model1 model1 = new Model1();
+
             hotelsBindingSource.DataSource = model1.Hotels.ToList();
         }
     }

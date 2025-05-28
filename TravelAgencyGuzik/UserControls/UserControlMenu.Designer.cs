@@ -80,6 +80,7 @@
             this.buttonBookings.TabIndex = 13;
             this.buttonBookings.Text = "Забронированные туры";
             this.buttonBookings.UseVisualStyleBackColor = false;
+            this.buttonBookings.Click += new System.EventHandler(this.buttonBookings_Click);
             // 
             // buttonShowTours
             // 
