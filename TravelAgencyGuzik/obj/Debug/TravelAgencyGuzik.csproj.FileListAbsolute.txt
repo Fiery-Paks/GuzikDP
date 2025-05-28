@@ -20,3 +20,8 @@ D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.Us
 D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControls.UserControlMenu.resources
 D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControls.UserControlParent.resources
 D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControls.UserControlHotelsAdd.resources
+D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControls.UserControlBookingsAddUpdate.resources
+D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControls.UserControlBookingsTable.resources
+D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControlsTile.UserControlTileTour.resources
+D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControls.UserControlTours.resources
+D:\MyDocuments\Projects\GuzikDP\TravelAgencyGuzik\obj\Debug\TravelAgencyGuzik.UserControls.UserControlToursAddUpdate.resources

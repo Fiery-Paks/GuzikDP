@@ -96,6 +96,24 @@
     <Compile Include="ModelEF\Tours.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControlsTile\UserControlTileTour.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlsTile\UserControlTileTour.Designer.cs">
+      <DependentUpon>UserControlTileTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlBookingsAddUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlBookingsAddUpdate.Designer.cs">
+      <DependentUpon>UserControlBookingsAddUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlBookingsTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlBookingsTable.Designer.cs">
+      <DependentUpon>UserControlBookingsTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserControls\UserControlHotels.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -120,6 +138,18 @@
     <Compile Include="UserControls\UserControlParent.Designer.cs">
       <DependentUpon>UserControlParent.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControls\UserControlTours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlTours.Designer.cs">
+      <DependentUpon>UserControlTours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlToursAddUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlToursAddUpdate.Designer.cs">
+      <DependentUpon>UserControlToursAddUpdate.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Forms\FormAutorization.resx">
       <DependentUpon>FormAutorization.cs</DependentUpon>
     </EmbeddedResource>
@@ -134,7 +164,17 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UserControlsTile\UserControlTileTour.resx">
+      <DependentUpon>UserControlTileTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlBookingsAddUpdate.resx">
+      <DependentUpon>UserControlBookingsAddUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlBookingsTable.resx">
+      <DependentUpon>UserControlBookingsTable.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserControls\UserControlHotels.resx">
       <DependentUpon>UserControlHotels.cs</DependentUpon>
     </EmbeddedResource>
@@ -146,6 +186,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserControls\UserControlParent.resx">
       <DependentUpon>UserControlParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlTours.resx">
+      <DependentUpon>UserControlTours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlToursAddUpdate.resx">
+      <DependentUpon>UserControlToursAddUpdate.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\DataSources\TravelAgencyGuzik.ModelEF.Bookings.datasource" />
@@ -170,6 +216,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Icon2.ico" />
+    <None Include="Resources\placeholder.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
@@ -183,8 +230,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="UserControlsTile\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

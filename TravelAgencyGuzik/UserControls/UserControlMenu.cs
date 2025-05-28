@@ -35,7 +35,20 @@ namespace TravelAgencyGuzik.UserControls
 
         private void buttonBookings_Click(object sender, EventArgs e)
         {
+            var parentForm = this.FindForm() as FormMenu; // Получаем родительскую форму
+            if (parentForm != null)
+            {
+                parentForm.LoadUserControl(new UserControlBookingsTable()); // Загружаем новый UserControl
+            }
+        }
 
+        private void buttonShowTours_Click(object sender, EventArgs e)
+        {
+            var parentForm = this.FindForm() as FormMenu; // Получаем родительскую форму
+            if (parentForm != null)
+            {
+                parentForm.LoadUserControl(new UserControlTours()); // Загружаем новый UserControl
+            }
         }
     }
 }

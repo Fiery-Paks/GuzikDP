@@ -93,6 +93,7 @@
             this.buttonShowTours.TabIndex = 12;
             this.buttonShowTours.Text = "Посмотреть туры";
             this.buttonShowTours.UseVisualStyleBackColor = false;
+            this.buttonShowTours.Click += new System.EventHandler(this.buttonShowTours_Click);
             // 
             // UserControlMenu
             // 

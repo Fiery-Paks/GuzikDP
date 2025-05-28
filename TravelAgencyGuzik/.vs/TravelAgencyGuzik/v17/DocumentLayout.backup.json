@@ -3,28 +3,80 @@
   "WorkspaceRootPath": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrolstile\\usercontroltiletour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrolstile\\usercontroltiletour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrolstile\\usercontroltiletour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrolstile\\usercontroltiletour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontroltours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontroltours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontroltours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontroltours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontroltoursaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontroltoursaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontroltoursaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontroltoursaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolhotelsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolhotelsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\usercontrols\\usercontrolhotelsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolhotelsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolhotelsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolbookingsaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolbookingsaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolbookingsaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolbookingsaddupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolbookingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolbookingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\usercontrols\\usercontrolparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\forms\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:forms\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\forms\\formautorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:forms\\formautorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolbookingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolbookingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\modelef\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:modelef\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +86,243 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserControlHotels.cs",
-              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotels.cs",
-              "RelativeDocumentMoniker": "UserControls\\UserControlHotels.cs",
-              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotels.cs",
-              "RelativeToolTip": "UserControls\\UserControlHotels.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCUAAABEAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UserControlToursAddUpdate.cs",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlToursAddUpdate.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlToursAddUpdate.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlToursAddUpdate.cs",
+              "RelativeToolTip": "UserControls\\UserControlToursAddUpdate.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAnwDUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:59:36.083Z",
+              "WhenOpened": "2025-05-28T21:23:21.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlTileTour.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControlsTile\\UserControlTileTour.cs",
+              "RelativeDocumentMoniker": "UserControlsTile\\UserControlTileTour.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControlsTile\\UserControlTileTour.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControlsTile\\UserControlTileTour.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:49:07.525Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserControlTileTour.cs",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControlsTile\\UserControlTileTour.cs",
+              "RelativeDocumentMoniker": "UserControlsTile\\UserControlTileTour.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControlsTile\\UserControlTileTour.cs",
+              "RelativeToolTip": "UserControlsTile\\UserControlTileTour.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:57:13.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlToursAddUpdate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlToursAddUpdate.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlToursAddUpdate.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlToursAddUpdate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlToursAddUpdate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:23:15.894Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlTours.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlTours.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlTours.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlTours.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlTours.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:44:35.981Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlTours.cs",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlTours.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlTours.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlTours.cs",
+              "RelativeToolTip": "UserControls\\UserControlTours.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:44:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserControlHotelsAdd.cs",
               "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotelsAdd.cs",
               "RelativeDocumentMoniker": "UserControls\\UserControlHotelsAdd.cs",
               "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotelsAdd.cs",
               "RelativeToolTip": "UserControls\\UserControlHotelsAdd.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAcwEkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:57:56.832Z",
+              "WhenOpened": "2025-05-28T19:05:02.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlParent.cs",
-              "RelativeDocumentMoniker": "UserControls\\UserControlParent.cs",
-              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "UserControls\\UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:54:38.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs",
-              "RelativeDocumentMoniker": "UserControls\\UserControlMenu.cs",
-              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "UserControls\\UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:54:38.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UserControlHotelsAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotelsAdd.cs",
               "RelativeDocumentMoniker": "UserControls\\UserControlHotelsAdd.cs",
               "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotelsAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "UserControls\\UserControlHotelsAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:54:37.603Z",
+              "WhenOpened": "2025-05-28T19:05:01.198Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "UserControlBookingsAddUpdate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsAddUpdate.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlBookingsAddUpdate.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsAddUpdate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlBookingsAddUpdate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:12:11.154Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControlBookingsAddUpdate.cs",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsAddUpdate.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlBookingsAddUpdate.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsAddUpdate.cs",
+              "RelativeToolTip": "UserControls\\UserControlBookingsAddUpdate.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwJoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:12:12.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlBookingsTable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsTable.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlBookingsTable.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsTable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlBookingsTable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:04:38.04Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserControlHotels.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotels.cs",
               "RelativeDocumentMoniker": "UserControls\\UserControlHotels.cs",
               "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotels.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "UserControls\\UserControlHotels.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:54:36.902Z",
+              "WhenOpened": "2025-05-28T19:06:24.031Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlMenu.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:04:57.688Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlParent.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlParent.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:41:14.431Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\Forms\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMenu.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\Forms\\FormMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\FormMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:35:36.52Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAutorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\Forms\\FormAutorization.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAutorization.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\Forms\\FormAutorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\FormAutorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:16:09.63Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlBookingsTable.cs",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsTable.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlBookingsTable.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlBookingsTable.cs",
+              "RelativeToolTip": "UserControls\\UserControlBookingsTable.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:04:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControlMenu.cs",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlMenu.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs",
+              "RelativeToolTip": "UserControls\\UserControlMenu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:21:20.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\ModelEF\\Bookings.cs",
+              "RelativeDocumentMoniker": "ModelEF\\Bookings.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\ModelEF\\Bookings.cs",
+              "RelativeToolTip": "ModelEF\\Bookings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:33:47.813Z",
+              "EditorCaption": ""
             }
           ]
         }
