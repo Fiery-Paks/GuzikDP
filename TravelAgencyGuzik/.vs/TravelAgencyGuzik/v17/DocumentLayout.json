@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|d:\\mydocuments\\projects\\guzikdp\\travelagencyguzik\\usercontrols\\usercontrolhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolhotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\usercontrols\\usercontrolparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\usercontrols\\usercontrolhotelsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488F60FC-4D59-4340-BFA5-6F49992E7AD3}|TravelAgencyGuzik.csproj|solutionrelative:usercontrols\\usercontrolhotelsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlParent.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlParent.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlParent.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:54:38.753Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlMenu.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:54:38.14Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlHotelsAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotelsAdd.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlHotelsAdd.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotelsAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlHotelsAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:54:37.603Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlHotels.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotels.cs",
+              "RelativeDocumentMoniker": "UserControls\\UserControlHotels.cs",
+              "ToolTip": "D:\\MyDocuments\\Projects\\GuzikDP\\TravelAgencyGuzik\\UserControls\\UserControlHotels.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserControls\\UserControlHotels.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:54:36.902Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
